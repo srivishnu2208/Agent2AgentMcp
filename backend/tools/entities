@@ -1,0 +1,5 @@
+[
+  { "id": "Hyderabad", "aliases": ["hyd", "hyderabad", "hyderbad", "hydrabad"] },
+  { "id": "Telangana", "aliases": ["telangana", "telengana"] },
+  { "id": "France", "aliases": ["france", "frnace", "frnce"] }
+]
